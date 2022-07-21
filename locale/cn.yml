@@ -1,0 +1,45 @@
+the-turk-mathren:
+  ##
+  # UNIQUE KEYS - The following keys are used in only one location each.
+  ##
+
+  # Translations in this namespace are used by the admin interface.
+  admin:
+    # These translations are used in the Settings page.
+    settings:
+      katex_options_heading: KaTeX选项
+      delimiters_label: 分隔符
+      delimiters_text: 用逗号分隔它们，<strong>%e%</strong> 代表数学表达式。
+      block_delimiters_text: 块表达式的 <strong>BBCode</strong> 分隔符
+      inline_delimiters_text: <strong>BBCode</strong> 内联表达式的分隔符
+      alias_block_delimiters_text: 块表达式的<strong>Alias</strong>分隔符
+      alias_inline_delimiters_text: 内联表达式的<strong>Alias</strong>分隔符
+      primary_delimiters_text: 上述列表中的第一个分隔符将被视为主要分隔符。
+      output_mode_label: 输出方式
+      output_mode_text: 选择输出的标记语言
+      error_color_label: 不支持的命令或无效 LaTeX 的颜色
+      error_color_text: 选择<strong>禁用错误抛出时</strong>中不支持的命令和无效的 LaTeX 呈现的颜色。
+      sizing_options_heading: 尺寸选项
+      minimum_thickness_text: 最小厚度 (em)
+      maximum_size_text: 最大尺寸 (em)
+      macros_label: 宏
+      macros_text: 自定义宏的集合。
+      java_syntax_text: 您必须使用 JavaScript 的语法编写它们。
+      maximum_expand_limit_text: 最大扩展限制
+      enable_fleqn_label: 启用左对齐方程 (fleqn)
+      enable_leqno_label: 启用左方程编号 (leqno)
+      color_is_text_color_label: 允许 <code>\color</code> 命令接受两个参数 (colorIsTextColor)
+      throw_on_error_label: 在不支持的命令或无效的 LaTeX 上引发错误
+      bbcode_delimiters_rule_text: BBCode 分隔符只能由大写或小写字母和破折号组成。
+      other_options_heading: 其他选项
+      enable_editor_buttons_label: 在文本编辑器上显示按钮
+      aliases_as_primary_label: 如果可能，使用别名分隔符作为主要分隔符
+      enable_copy_tex_label: 允许复制 KaTeX 渲染元素的源
+      quote_button_text: 您必须启用 <code>flarum/mentions</code> 扩展来激活报价按钮。
+
+  # Translations in this namespace are used by the forum user interface.
+  forum:
+    
+    # These translations are used by the composer.
+      composer: 块表达式
+      inline_expression: 内联表达式
