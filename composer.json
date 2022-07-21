@@ -1,6 +1,6 @@
 {
     "name": "starsrivers/flarum-mathren",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "TeX math rendering for your forum.",
     "keywords": [
         "flarum",
