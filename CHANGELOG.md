@@ -1,3 +1,8 @@
+## 1.0.5
+- Upward compatible with later versions
+- Fixed some issues
+- Merge patches
+
 ### 1.0.3
 - Fixed a possible security issue.
 
