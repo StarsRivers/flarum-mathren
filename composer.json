@@ -1,5 +1,6 @@
 {
-    "name": "the-turk/flarum-mathren",
+    "name": "starsrivers/flarum-mathren",
+    "version": "1.0.4",
     "description": "TeX math rendering for your forum.",
     "keywords": [
         "flarum",
@@ -17,9 +18,14 @@
         "email": "hasanoozbey@gmail.com",
         "homepage": "https://github.com/the-turk"
     }],
+    "authors": [{
+        "name": "星河",
+        "email": "weizixuan110@foxmail.com",
+        "homepage": "https://github.com/StarsRivers"
+    }],
     "support": {
-        "issues": "https://github.com/the-turk/flarum-mathren/issues",
-        "source": "https://github.com/the-turk/flarum-mathren",
+        "issues": "https://github.com/StarsRivers/flarum-mathren/issues",
+        "source": "https://github.com/StarsRivers/flarum-mathren",
         "docs": "https://katex.org/docs/options.html"
     },
     "require": {
