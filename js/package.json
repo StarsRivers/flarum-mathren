@@ -3,8 +3,8 @@
   "description": "TeX math rendering for your forum.",
   "license": "MIT",
   "dependencies": {
-    "webpack": "^4.46.0",
-    "webpack-cli": "^3.3.12"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   },
   "devDependencies": {
     "flarum-webpack-config": "1.0.0",
